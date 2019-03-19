@@ -1,9 +1,10 @@
+#files not submit
 dist/
 .temp/
 .rn_temp/
 node_modules/
-.DS_Store
 .history/
+.DS_Store
 
 #log files
 npm-debug.log*
