@@ -1,5 +1,6 @@
 import Taro, { Component } from '@tarojs/taro'
 import Index from './pages/index'
+import Nav from './components/nav/nav'
 
 import './app.less'
 
