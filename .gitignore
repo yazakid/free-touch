@@ -3,6 +3,7 @@ dist/
 .rn_temp/
 node_modules/
 .DS_Store
+.history/
 
 #log files
 npm-debug.log*
