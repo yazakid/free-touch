@@ -114,10 +114,10 @@
   dependencies:
     csso "^3.5.0"
 
-"@tarojs/plugin-less@1.2.20":
-  version "1.2.20"
-  resolved "https://registry.yarnpkg.com/@tarojs/plugin-less/-/plugin-less-1.2.20.tgz#33ec58b57e14d07cbbcebcf910995f5c04a3c8cb"
-  integrity sha512-s6XFV4TfpE75GXKtg/6qGHHJ11AKAssFEyQsozqwitdYyWgfhSwukbNV5PY2Mp0+/MP74k7vpZ9V9/svIFfDkA==
+"@tarojs/plugin-less@^1.2.21":
+  version "1.2.21"
+  resolved "https://registry.yarnpkg.com/@tarojs/plugin-less/-/plugin-less-1.2.21.tgz#92b289976cb6200194dfb292b57bdd0d452188fa"
+  integrity sha512-HOv7eshLeCr0Z0/hbaEnPnmUWpW1eUAPrER/lQVS/HJ6orfulOnbvtnd18sf23yVr4BYsg/4ecG+BhPr0d3gRw==
   dependencies:
     less "^3.0.4"
 
