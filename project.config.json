@@ -2,7 +2,7 @@
 	"miniprogramRoot": "dist/",
 	"projectname": "free-touch",
 	"description": "Taro demo for anydoor2.0",
-	"appid": "PA00000000_SDK",
+	"appid": "wx55a06a2f4cfc0fc3",
 	"setting": {
 		"urlCheck": false,
 		"es6": false,
