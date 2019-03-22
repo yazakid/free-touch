@@ -1,0 +1,56 @@
+@import "@styles/theme.scss";
+
+.home-flash-sale {
+  padding: 0 30px 40px;
+  background: #ffffff;
+}
+
+.home-flash-sale__cnt {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 14px;
+
+  &-split {
+    margin: 0 8px;
+    color: $text-color;
+    font-size: 24px;
+  }
+}
+
+.home-flash-sale__list {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+
+  &-item {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10px;
+
+    &-img {
+      width: 318px;
+      height: 218px;
+      background: #fafafa;
+      border-radius: 4px;
+      margin-top: 10px;
+    }
+
+    &-wrap {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      margin-top: 20px;
+    }
+
+    &-origin {
+      margin-left: 12px;
+      color: $text-color-lighter;
+      font-size: 24px;
+      line-height: 24px;
+      text-decoration: line-through;
+      text-decoration-color: $text-color-lighter;
+    }
+  }
+}
