@@ -1,0 +1,60 @@
+@import "@styles/theme.scss";
+
+.home-sub-form__list {
+  margin:  30px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  border: 2px solid #f1f1f1;
+  border-radius: 4px;
+
+  &-item {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #f1f1f1;
+    padding: 0 30px;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+   
+    &-text {
+      font-size: 32px;
+      width: 20%;
+      text-align: center;
+   }
+
+   &-inp {
+    font-size: 32px;
+    width:80%;
+    height: 80px;
+    line-height: 80px;
+    text-align: left;
+    }
+  }
+
+  &-sub{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    &-btn{
+      background:#fb7533;
+      width: 100%;
+      margin-bottom:10px;
+      &-txt{
+        color:#fff;
+      }
+    }
+    &-pre{
+      color: $black;
+      font-size: 28px;
+      text-align: center;
+    }
+    &-msg{
+      color: $color-brand;
+      font-size: 28px;
+      text-align: center;
+    }
+  }
+}
