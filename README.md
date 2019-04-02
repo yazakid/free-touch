@@ -1,6 +1,6 @@
 # free-touch
 
-[Taro](https://github.com/NervJS/taro) 多端统一实例 - 网易严选（小程序 + H5 + React Native）。
+[Taro](https://github.com/NervJS/taro) （小程序 + H5 + React Native）。
 
 ## 本地运行
 
