@@ -1,7 +1,7 @@
 {
 	"miniprogramRoot": "dist/",
 	"projectname": "free-touch",
-	"description": "Taro demo for weapp",
+	"description": "Taro demo for tt",
 	"appid": "PA00000000_SDK",
 	"setting": {
 		"urlCheck": false,
