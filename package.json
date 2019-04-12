@@ -2,7 +2,7 @@
 	"name": "free-touch",
 	"version": "1.0.0",
 	"private": true,
-	"description": "Taro demo for anydoor2.0",
+	"description": "Taro demo for PA",
 	"scripts": {
 		"build:weapp": "taro build --type weapp",
 		"build:swan": "taro build --type swan",
@@ -56,10 +56,10 @@
 		"babel-preset-env": "^1.6.1",
 		"cross-env": "^5.2.0",
 		"eslint": "^4.19.1",
-		"eslint-config-taro": "1.2.17",
+		"eslint-config-taro": "^1.2.17",
 		"eslint-plugin-import": "^2.12.0",
 		"eslint-plugin-react": "^7.8.2",
-		"eslint-plugin-taro": "1.2.17",
+		"eslint-plugin-taro": "^1.2.17",
 		"fbjs": "^1.0.0"
 	}
 }
